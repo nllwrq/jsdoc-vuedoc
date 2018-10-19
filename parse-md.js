@@ -1,4 +1,4 @@
-const vuedoc = require('@vuedoc/md');
+const vuedoc = require('@xh-vuedoc/md');
 
 let options = '';
 

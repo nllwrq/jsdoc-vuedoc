@@ -1,6 +1,6 @@
 const path = require('path');
 const fs = require('fs');
-const vuedoc = require('@vuedoc/md');
+const vuedoc = require('@xh-vuedoc/md');
 const compiler = require('vue-template-compiler');
 const spawnSync = require('child_process').spawnSync;
 const config = require('./util').config;
