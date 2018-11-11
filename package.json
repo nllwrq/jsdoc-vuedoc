@@ -19,5 +19,8 @@
   "dependencies": {
     "@xh-vuedoc/md": "^1.5.2",
     "vue-template-compiler": "^2.5.17"
+  },
+  "devDependencies": {
+    "@xh-vuedoc/md": "^1.5.4"
   }
 }
