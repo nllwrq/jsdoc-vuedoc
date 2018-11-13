@@ -17,10 +17,7 @@
   },
   "homepage": "https://github.com/ccqgithub/jsdoc-vuedoc#readme",
   "dependencies": {
-    "@xh-vuedoc/md": "^1.5.2",
+    "@xh-vuedoc/md": "^1.5.5",
     "vue-template-compiler": "^2.5.17"
-  },
-  "devDependencies": {
-    "@xh-vuedoc/md": "^1.5.4"
   }
 }
