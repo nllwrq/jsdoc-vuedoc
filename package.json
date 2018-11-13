@@ -1,6 +1,6 @@
 {
   "name": "xh-jsdoc-vuedoc",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A jsdoc3 plugin use `@vuedoc/md`",
   "main": "index.js",
   "scripts": {
